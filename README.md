@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MiattoRocha/reactTutorial.svg?branch=master](https://travis-ci.org/MiattoRocha/reactTutorial)
+
 ## Sahat's tutorial: Create a character voting app for Eve Online
 
 This is my playground to use React, Flux, es6, node.js, socket.io, mongodb, and others awesome javascript libraries.
