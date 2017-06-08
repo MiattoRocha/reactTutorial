@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/MiattoRocha/reactTutorial.svg?branch=master](https://travis-ci.org/MiattoRocha/reactTutorial)
+[![Build Status](https://travis-ci.org/MiattoRocha/reactTutorial.svg?branch=master)](https://travis-ci.org/MiattoRocha/reactTutorial)
 
 ## Sahat's tutorial: Create a character voting app for Eve Online
 
